@@ -1,0 +1,8 @@
+class Sample:
+
+	'''
+	created a sample class 
+
+	'''
+	def display(self):
+		print("Create a sample clas to execute git commands")
